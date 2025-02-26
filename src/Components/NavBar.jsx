@@ -1,4 +1,4 @@
-
+import style from "../Components/navbar.module.css";
 export default function NavBar() {
   return (
     <>
